@@ -12,3 +12,6 @@ Then start the app using
 To run the project, you need your own Rapid API key to put it in `hooks/useFetch`
 
 Get your key here: https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
+
+
+please merge this change
